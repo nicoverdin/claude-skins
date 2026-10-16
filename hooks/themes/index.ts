@@ -1,5 +1,6 @@
 import ayu from './ayu'
 import catppuccin from './catppuccin'
+import claude from './claude'
 import dracula from './dracula'
 import everforest from './everforest'
 import github from './github'
@@ -32,4 +33,5 @@ export const SKINS: readonly Skin[] = [
   ayu,
   nightOwl,
   mono,
+  claude,
 ]
