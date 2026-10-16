@@ -195,7 +195,7 @@ the README does not say.
 | How | Function-hooks plugin | Function-hooks plugin | Function-hooks plugin, a Prismantis fork | Patches Claude Code's JavaScript; reapply after each update | Function-hooks mod | Status line command |
 | Claude Code | 2.1.287+ | 2.1.287+ | 2.1.289+ | Verified on 2.1.162 | 2.1.286+ | |
 | Platforms named | Windows by hand, Linux by tests; CI on Linux, Windows, macOS ([compat](docs/compat.md)) | macOS terminal by hand; CI on macOS, Linux, Windows | | Windows, macOS, Linux | Terminal and desktop app | Windows guide in its docs |
-| Themes | 15, repaint any colour, or have Claude design one | 15 and `mono`, 20 colour slots | 15 | Your own, for Claude Code's whole UI | | Powerline themes |
+| Themes | 16, repaint any colour, or have Claude design one | 15 and `mono`, 20 colour slots | 15 | Your own, for Claude Code's whole UI | | Powerline themes |
 | Recolours Claude Code's own UI | No | No | No | **Yes** | No | No |
 | Tool rows | Icons, timings, rail; **open to the input and answer** | 4 styles | | | No | No |
 | Read-only output hidden | `/skin quiet` | `toolOutput: quiet` | | | No | No |
